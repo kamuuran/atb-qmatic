@@ -1,0 +1,250 @@
+
+
+.container {
+    position: absolute;
+    border-bottom: 2px solid #581C86;
+    border-right: 2px solid #581C86;
+    width: 499px;
+    height: 499px;
+    left: 0px;
+    top: 0px;
+    margin: 0;
+
+}
+
+.container2 {
+    position: absolute;
+    border-bottom: 2px solid #581C86;
+    width: 499px;
+    height: 499px;
+    left: 501px;
+    top: 0px;
+    margin: 0;
+
+}
+
+.container3 {
+    position: absolute;
+    border-right: 2px solid #581C86;
+    width: 499px;
+    height: 499px;
+    left: 0px;
+    top: 501px;
+    margin: 0;
+
+}
+
+.container4 {
+    position: absolute;
+    width: 499px;
+    height: 499px;
+    left: 501px;
+    top: 501px;
+    margin: 0;
+ 
+}
+
+/* Pul mübadiləsi */
+
+.converttext {
+    position: absolute;
+    width: 400px;
+    left: 550px;
+    top: 850px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+
+    align-items: center;
+    text-align: center;
+    
+    color: #581C86;
+}
+
+
+
+
+/* convertcircle */
+
+.convertcircle {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 150px;
+    top: 100px;
+    
+    background: #581C86;
+    border: 4px solid #581C86;
+    box-sizing: border-box;
+    border-radius: 166.5px;
+}
+
+
+
+/* converticon */
+
+.converticon {
+    position: absolute;
+    width: 105px;
+    height: 115px;
+    left: 198px;
+    top: 145px;
+}
+
+
+
+
+/* Kommunal / Büdcə Vergi ödənişləri */
+
+.budgettext {
+    position: absolute;
+    width: 400px;
+    left: 50px;
+    top: 850px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 38px;
+    align-items: center;
+    text-align: center;
+    
+    color: #581C86;
+   
+}
+
+
+
+
+/* budgetcircle */
+
+.budgetcircle {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 150px;
+    top: 100px;
+    
+    background: #581C86;
+    border: 4px solid #581C86;
+    box-sizing: border-box;
+    border-radius: 166.5px;
+}
+
+
+
+/* budgeticon */
+
+.budgeticon {
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    left: 205px;
+    top: 155px;
+}
+
+
+
+
+/* Hüquqi şəxslər */
+
+.lawtext {
+    position: absolute;
+    width: 400px;
+    left: 550px;
+    top: 350px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    
+    color: #581C86;
+
+}
+
+
+
+
+/* lawcircle */
+
+.lawcircle {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 150px;
+    top: 100px;
+    
+    background: #581C86;
+    border: 4px solid #581C86;
+    box-sizing: border-box;
+    border-radius: 166.5px;
+    text-align: center;
+}
+
+
+
+/* lawicon */
+
+.lawicon {
+    position: absolute;
+    width: 96px;
+    height: 96px;
+    left: 202px;
+    top: 148px;
+}
+
+
+
+
+/* physic */
+
+.physictext {
+    position: absolute;
+    width: 400px;
+    left: 50px;
+    top: 350px;
+    
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    text-align: center;
+    
+    color: #581C86;
+
+}
+
+
+
+
+/* physiccircle */
+
+.physiccircle {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 150px;
+    top: 100px;
+    
+    background: #581C86;
+    border: 4px solid #581C86;
+    box-sizing: border-box;
+    border-radius: 166.5px;
+}
+
+
+
+/* physicicon */
+
+.physicicon {
+    position: absolute;
+    width: 109.33px;
+    height: 100.22px;
+    left: 195px;
+    top: 145px;
+}
